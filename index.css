@@ -90,3 +90,11 @@
     color: #fff;
 }
 
+
+
+@media (min-width:374px){
+
+    .nav__bar{
+        display: flex;
+        justify-content: space-between;
+    }}
